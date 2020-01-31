@@ -1,6 +1,6 @@
 # Shopify Theme Detector
 
-Shopify Theme Detector is web app designed to help dropshippers and shopify developers to find out the name of the theme a particualr shopify store is using.
+Shopify Theme Detector is a web app designed to help drop shippers and Shopify developers to find out the name of the theme a particular Shopify store is using.
 
 #### [Click Here To Watch A Video Of The Web App][1]
 
